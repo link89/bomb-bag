@@ -22,7 +22,7 @@ setuptools.setup(
     install_requires=[
         'fire',
         'opencv-python-headless == 3.4.2.16',
-        'opencv-contrib-python-headless == 3.4.2.16',
+        'opencv-contrib-python-headless == 4.1.2.30',
         'numpy',
         'matplotlib',
     ],
